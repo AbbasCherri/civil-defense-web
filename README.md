@@ -15,3 +15,14 @@ Built with **FRONTEND FRAMEWORK** and consumes the backend API.
 - Node.js 18+
 - npm or yarn
 - Backend API running (see `civil-defense-backend`)
+
+## Setup
+
+```bash
+git clone https://github.com/AbbasCherri/civil-defense-web.git
+cd civil-defense-web
+npm install
+npm install recharts lucide-react
+npm start
+```
+
